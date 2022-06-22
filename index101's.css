@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    font-family:'Montserrat', sans-serif;
+ 
+}
+
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+
+
+#button{
+    border-radius: 10px;
+    color: rgb(244, 67, 44);
+    
+}
+
+
+.header{
+    max-width: 50%;
+    margin: auto;
+    display: flex;
+    margin-top: 15px;
+}
+
+.person{
+    height: 95px;
+    width: 95px;
+    object-fit: cover;
+    border: 1px solid rgb(244, 67, 44);
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+            
+.name-ex{
+    flex: 1;
+    margin-left: 9px;
+    font-size: 22px;
+    line-height: 20px;
+    
+}
+
+.description{
+    font-size: 17px;
+    
+}
+
+.colar{
+    color: rgb(244, 67, 44);
+}
+
+.information{
+    margin-top: 15px;
+}
+
+
+.horizon{
+    background-color: rgb(244, 67, 44);
+    color: rgb(244, 67, 44);
+    border: 1px solid ;
+    max-width: 50%;
+    justify-content: center;
+    line-height: 50px;
+    border-radius: 2px;
+    
+}
+
+.main{
+    max-width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.heading{
+    color: rgb(244, 67, 44);
+    display: block;
+    min-width: 300px;
+    font-size: 21px;
+}
+
+.margin-fix{
+    margin-top: 20px;
+}
+
+.short-heading{
+    font-size: 22px;
+    font: bold;
+    /* line-height: 35px; */
+}
+
+.duration{
+    font-weight: 300;
+    font: italic;
+    line-height: 30px;
+}
+
+
